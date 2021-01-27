@@ -5,3 +5,5 @@
 [Aleph.im Technical One-Pager - latest version](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_Technical_OnePager_20210114.pdf)
 
 [Aleph.im Node Operators One-Pager - latest version](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_NodeOperators_OnePager_20210115.pdf)
+
+[Aleph.im Whitepaper (Nov. 2019)](https://github.com/moshemalawach/aleph-whitepaper/raw/master/aleph-whitepaper.pdf) - getting a major update right now, watch this space!
