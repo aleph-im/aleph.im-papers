@@ -8,6 +8,9 @@
 
 [Aleph.im Whitepaper (Nov. 2019)](https://github.com/moshemalawach/aleph-whitepaper/raw/master/aleph-whitepaper.pdf) - getting a major update right now, watch this space!
 
+
 # Aleph.im Papers - in Chinese
+
+[Aleph.im Technical One-Pager (Dec 23th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_Technical_OnePager__20201223_chinese.pdf) - see english doc above for latest version
 
 [Aleph.im Node Operators One-Pager (Dec 24th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_NodeOperators_OnePager_20201224_chinese.pdf) - see english doc above for latest version
