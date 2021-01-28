@@ -11,6 +11,8 @@
 
 # Aleph.im Papers - in Chinese
 
+[Aleph.im Light One-Pager (Dec 23th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_Light_OnePager_20201223_chinese.pdf) - see english doc above for latest version
+
 [Aleph.im Technical One-Pager (Dec 23th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_Technical_OnePager__20201223_chinese.pdf) - see english doc above for latest version
 
 [Aleph.im Node Operators One-Pager (Dec 24th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_NodeOperators_OnePager_20201224_chinese.pdf) - see english doc above for latest version
