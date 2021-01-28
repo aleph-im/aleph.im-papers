@@ -10,4 +10,4 @@
 
 # Aleph.im Papers in Chinese
 
-[Aleph.im Node Operators One-Pager (Dec 24th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_NodeOperators_OnePager_20201224_chinese.pdf)
+[Aleph.im Node Operators One-Pager (Dec 24th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_NodeOperators_OnePager_20201224_chinese.pdf) - see english doc above for latest version
