@@ -11,7 +11,7 @@
 
 # Aleph.im Papers - in Chinese
 
-[Aleph.im Light One-Pager (Dec 23th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_Light_OnePager_20201223_chinese.pdf) - see english doc above for latest version
+[Aleph.im Light One-Pager (Jan 4th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_Light_OnePager_20210104_chinese.pdf) - see english doc above for latest version
 
 [Aleph.im Technical One-Pager (Dec 23th 2020)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im_Technical_OnePager__20201223_chinese.pdf) - see english doc above for latest version
 
