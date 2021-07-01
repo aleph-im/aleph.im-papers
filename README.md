@@ -8,6 +8,9 @@
 
 [Aleph.im Whitepaper (Nov. 2019)](https://github.com/moshemalawach/aleph-whitepaper/raw/master/aleph-whitepaper.pdf) - getting a major update right now, watch this space!
 
+[Aleph.im indexing One-Pager (for Solana)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im-Solana-VM-Indexing-v1.3.3.pdf)
+[Aleph.im indexing One-Pager (generic)](https://github.com/aleph-im/aleph.im-papers/blob/main/Aleph.im-General-VM-Indexing-v1.0.1.pdf)
+
 
 # Aleph.im Papers - in Chinese
 
